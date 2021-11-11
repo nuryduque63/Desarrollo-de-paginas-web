@@ -43,3 +43,6 @@ jeffersonduvanrami17@gmail.com
 Jose Fernando Muñoz Alvarez
 chepemual@gmail.com
 
+Alejandro Granada Ospina 
+collerx100pre@gmail.com
+
