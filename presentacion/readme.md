@@ -1,7 +1,3 @@
-Proyecto 
-=======
-## Equipo de trabajo ciclo 4
-=======
 # 🖥 Proyecto_ArcadeWeb
 ## 📋 Descripción del proyecto:
 ![image](https://user-images.githubusercontent.com/82006611/141215865-ddac2f37-9f8c-43fc-ae05-c5893e26a7a5.png)<br>
@@ -33,7 +29,6 @@ El proyecto contará con los siguientes atributos: Identificador único del proy
 - Javascript
 
 ## 💻 Equipo de trabajo ciclo 4
-
 # Integrantes del grupo
 
 Nury Bersey Pulgarin
@@ -50,5 +45,4 @@ chepemual@gmail.com
 
 Alejandro Granada Ospina 
 collerx100pre@gmail.com
-
 
